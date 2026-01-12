@@ -35,4 +35,3 @@ for (let i = 0; i < lista_jogadores.length; i++) {
 
     console.log(`O Herói tem o saldo de ${resultado.saldo}, está no nível de ${resultado.nivel}`); 
 }
-
